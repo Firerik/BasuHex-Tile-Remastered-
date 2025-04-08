@@ -1,0 +1,1928 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/BasuHex/Tiles/Hill
+  rotate: false
+  xy: 4, 4
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Coast-Land Art/Beach-Coast-Land-Bottom
+  rotate: false
+  xy: 564, 964
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Coast-Land Art/Beach-Coast-Land-BottomLeft
+  rotate: false
+  xy: 4, 296
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Coast-Land Art/Beach-Coast-Land-BottomRight
+  rotate: false
+  xy: 76, 368
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Coast-Land Art/Beach-Coast-Land-Top
+  rotate: false
+  xy: 148, 432
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Coast-Land Art/Beach-Coast-Land-TopLeft
+  rotate: false
+  xy: 636, 964
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Coast-Land Art/Beach-Coast-Land-TopRight
+  rotate: false
+  xy: 4, 232
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Desert+Mountain-Coast Art/Beach-Desert-Coast-Bottom
+  rotate: false
+  xy: 780, 964
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Desert+Mountain-Coast Art/Beach-Mountain-Coast-Bottom
+  rotate: false
+  xy: 780, 964
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Grass+Plains-Coast Art/Beach-Grassland-Coast-Bottom
+  rotate: false
+  xy: 780, 964
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Grass+Plains-Coast Art/Beach-Plains-Coast-Bottom
+  rotate: false
+  xy: 780, 964
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Tundra+Snow-Coast Art/Beach-Snow-Coast-Bottom
+  rotate: false
+  xy: 780, 964
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Tundra+Snow-Coast Art/Beach-Tundra-Coast-Bottom
+  rotate: false
+  xy: 780, 964
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Desert+Mountain-Coast Art/Beach-Desert-Coast-BottomLeft
+  rotate: false
+  xy: 4, 104
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Desert+Mountain-Coast Art/Beach-Mountain-Coast-BottomLeft
+  rotate: false
+  xy: 4, 104
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Grass+Plains-Coast Art/Beach-Grassland-Coast-BottomLeft
+  rotate: false
+  xy: 4, 104
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Grass+Plains-Coast Art/Beach-Plains-Coast-BottomLeft
+  rotate: false
+  xy: 4, 104
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Tundra+Snow-Coast Art/Beach-Snow-Coast-BottomLeft
+  rotate: false
+  xy: 4, 104
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Tundra+Snow-Coast Art/Beach-Tundra-Coast-BottomLeft
+  rotate: false
+  xy: 4, 104
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Desert+Mountain-Coast Art/Beach-Desert-Coast-BottomRight
+  rotate: false
+  xy: 76, 176
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Desert+Mountain-Coast Art/Beach-Mountain-Coast-BottomRight
+  rotate: false
+  xy: 76, 176
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Grass+Plains-Coast Art/Beach-Grassland-Coast-BottomRight
+  rotate: false
+  xy: 76, 176
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Grass+Plains-Coast Art/Beach-Plains-Coast-BottomRight
+  rotate: false
+  xy: 76, 176
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Tundra+Snow-Coast Art/Beach-Snow-Coast-BottomRight
+  rotate: false
+  xy: 76, 176
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Tundra+Snow-Coast Art/Beach-Tundra-Coast-BottomRight
+  rotate: false
+  xy: 76, 176
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Desert+Mountain-Coast Art/Beach-Desert-Coast-Top
+  rotate: false
+  xy: 148, 240
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Grass+Plains-Coast Art/Beach-Grassland-Coast-Top
+  rotate: false
+  xy: 148, 240
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Grass+Plains-Coast Art/Beach-Plains-Coast-Top
+  rotate: false
+  xy: 148, 240
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Tundra+Snow-Coast Art/Beach-Snow-Coast-Top
+  rotate: false
+  xy: 148, 240
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Tundra+Snow-Coast Art/Beach-Tundra-Coast-Top
+  rotate: false
+  xy: 148, 240
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Desert+Mountain-Coast Art/Beach-Desert-Coast-TopLeft
+  rotate: false
+  xy: 852, 964
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Grass+Plains-Coast Art/Beach-Grassland-Coast-TopLeft
+  rotate: false
+  xy: 852, 964
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Grass+Plains-Coast Art/Beach-Plains-Coast-TopLeft
+  rotate: false
+  xy: 852, 964
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Tundra+Snow-Coast Art/Beach-Snow-Coast-TopLeft
+  rotate: false
+  xy: 852, 964
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Tundra+Snow-Coast Art/Beach-Tundra-Coast-TopLeft
+  rotate: false
+  xy: 852, 964
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Desert+Mountain-Coast Art/Beach-Desert-Coast-TopRight
+  rotate: false
+  xy: 4, 40
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Grass+Plains-Coast Art/Beach-Grassland-Coast-TopRight
+  rotate: false
+  xy: 4, 40
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Grass+Plains-Coast Art/Beach-Plains-Coast-TopRight
+  rotate: false
+  xy: 4, 40
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Tundra+Snow-Coast Art/Beach-Snow-Coast-TopRight
+  rotate: false
+  xy: 4, 40
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Tundra+Snow-Coast Art/Beach-Tundra-Coast-TopRight
+  rotate: false
+  xy: 4, 40
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Desert/Fresh-Desert-Lakes-Bottom
+  rotate: false
+  xy: 440, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Grassland/Fresh-Grassland-Lakes-Bottom
+  rotate: false
+  xy: 440, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Mountain/Fresh-Mountain-Lakes-Bottom
+  rotate: false
+  xy: 440, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Plains/Fresh-Plains-Lakes-Bottom
+  rotate: false
+  xy: 440, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Snow/Fresh-Snow-Lakes-Bottom
+  rotate: false
+  xy: 440, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Tundra/Fresh-Tundra-Lakes-Bottom
+  rotate: false
+  xy: 440, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Desert/Fresh-Desert-Lakes-BottomLeft
+  rotate: false
+  xy: 512, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Grassland/Fresh-Grassland-Lakes-BottomLeft
+  rotate: false
+  xy: 512, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Mountain/Fresh-Mountain-Lakes-BottomLeft
+  rotate: false
+  xy: 512, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Plains/Fresh-Plains-Lakes-BottomLeft
+  rotate: false
+  xy: 512, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Snow/Fresh-Snow-Lakes-BottomLeft
+  rotate: false
+  xy: 512, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Tundra/Fresh-Tundra-Lakes-BottomLeft
+  rotate: false
+  xy: 512, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Desert/Fresh-Desert-Lakes-BottomRight
+  rotate: false
+  xy: 584, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Grassland/Fresh-Grassland-Lakes-BottomRight
+  rotate: false
+  xy: 584, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Mountain/Fresh-Mountain-Lakes-BottomRight
+  rotate: false
+  xy: 584, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Plains/Fresh-Plains-Lakes-BottomRight
+  rotate: false
+  xy: 584, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Snow/Fresh-Snow-Lakes-BottomRight
+  rotate: false
+  xy: 584, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Tundra/Fresh-Tundra-Lakes-BottomRight
+  rotate: false
+  xy: 584, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Desert/Fresh-Desert-Lakes-Top
+  rotate: false
+  xy: 656, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Grassland/Fresh-Grassland-Lakes-Top
+  rotate: false
+  xy: 656, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Plains/Fresh-Plains-Lakes-Top
+  rotate: false
+  xy: 656, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Snow/Fresh-Snow-Lakes-Top
+  rotate: false
+  xy: 656, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Tundra/Fresh-Tundra-Lakes-Top
+  rotate: false
+  xy: 656, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Desert/Fresh-Desert-Lakes-TopLeft
+  rotate: false
+  xy: 728, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Grassland/Fresh-Grassland-Lakes-TopLeft
+  rotate: false
+  xy: 728, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Plains/Fresh-Plains-Lakes-TopLeft
+  rotate: false
+  xy: 728, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Snow/Fresh-Snow-Lakes--TopLeft
+  rotate: false
+  xy: 728, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Tundra/Fresh-Tundra-Lakes-TopLeft
+  rotate: false
+  xy: 728, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Desert/Fresh-Desert-Lakes-TopRight
+  rotate: false
+  xy: 800, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Grassland/Fresh-Grassland-Lakes-TopRight
+  rotate: false
+  xy: 800, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Plains/Fresh-Plains-Lakes-TopRight
+  rotate: false
+  xy: 800, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Snow/Fresh-Snow-Lakes-TopRight
+  rotate: false
+  xy: 800, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Tundra/Fresh-Tundra-Lakes-TopRight
+  rotate: false
+  xy: 800, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Desert/Fresh-Lakes-Desert-Bottom
+  rotate: false
+  xy: 872, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Grassland/Fresh-Lakes-Grassland-Bottom
+  rotate: false
+  xy: 872, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Mountain/Fresh-Lakes-Mountain-Bottom
+  rotate: false
+  xy: 872, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Plains/Fresh-Lakes-Plains-Bottom
+  rotate: false
+  xy: 872, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Snow/Fresh-Lakes-Snow-Bottom
+  rotate: false
+  xy: 872, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Tundra/Fresh-Lakes-Tundra-Bottom
+  rotate: false
+  xy: 872, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Desert/Fresh-Lakes-Desert-BottomLeft
+  rotate: false
+  xy: 944, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Grassland/Fresh-Lakes-Grassland-BottomLeft
+  rotate: false
+  xy: 944, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Mountain/Fresh-Lakes-Mountain-BottomLeft
+  rotate: false
+  xy: 944, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Plains/Fresh-Lakes-Plains-BottomLeft
+  rotate: false
+  xy: 944, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Snow/Fresh-Lakes-Snow-BottomLeft
+  rotate: false
+  xy: 944, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Tundra/Fresh-Lakes-Tundra-BottomLeft
+  rotate: false
+  xy: 944, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Desert/Fresh-Lakes-Desert-BottomRight
+  rotate: false
+  xy: 433, 708
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Grassland/Fresh-Lakes-Grassland-BottomRight
+  rotate: false
+  xy: 433, 708
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Mountain/Fresh-Lakes-Mountain-BottomRight
+  rotate: false
+  xy: 433, 708
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Plains/Fresh-Lakes-Plains-BottomRight
+  rotate: false
+  xy: 433, 708
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Snow/Fresh-Lakes-Snow-BottomRight
+  rotate: false
+  xy: 433, 708
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Tundra/Fresh-Lakes-Tundra-BottomRight
+  rotate: false
+  xy: 433, 708
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Desert/Fresh-Lakes-Desert-Top
+  rotate: false
+  xy: 433, 644
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Grassland/Fresh-Lakes-Grassland-Top
+  rotate: false
+  xy: 433, 644
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Mountain/Fresh-Lakes-Mountain-Top
+  rotate: false
+  xy: 433, 644
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Plains/Fresh-Lakes-Plains-Top
+  rotate: false
+  xy: 433, 644
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Snow/Fresh-Lakes-Snow-Top
+  rotate: false
+  xy: 433, 644
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Tundra/Fresh-Lakes-Tundra-Top
+  rotate: false
+  xy: 433, 644
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Desert/Fresh-Lakes-Desert-TopLeft
+  rotate: false
+  xy: 505, 708
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Grassland/Fresh-Lakes-Grassland-TopLeft
+  rotate: false
+  xy: 505, 708
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Mountain/Fresh-Lakes-Mountain-TopLeft
+  rotate: false
+  xy: 505, 708
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Plains/Fresh-Lakes-Plains-TopLeft
+  rotate: false
+  xy: 505, 708
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Snow/Fresh-Lakes-Snow-TopLeft
+  rotate: false
+  xy: 505, 708
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Tundra/Fresh-Lakes-Tundra-TopLeft
+  rotate: false
+  xy: 505, 708
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Desert/Fresh-Lakes-Desert-TopRight
+  rotate: false
+  xy: 505, 644
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Grassland/Fresh-Lakes-Grassland-TopRight
+  rotate: false
+  xy: 505, 644
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Mountain/Fresh-Lakes-Mountain-TopRight
+  rotate: false
+  xy: 505, 644
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Plains/Fresh-Lakes-Plains-TopRight
+  rotate: false
+  xy: 505, 644
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Snow/Fresh-Lakes-Snow-TopRight
+  rotate: false
+  xy: 505, 644
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Lake-Tundra/Fresh-Lakes-Tundra-TopRight
+  rotate: false
+  xy: 505, 644
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Ocean-Coast/Beach-Coast-Ocean-Bottom
+  rotate: false
+  xy: 76, 304
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Ocean-Coast/Beach-Ocean-Coast-Bottom
+  rotate: false
+  xy: 76, 304
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Ocean-Coast/Beach-Coast-Ocean-BottomLeft
+  rotate: false
+  xy: 148, 368
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Ocean-Coast/Beach-Ocean-Coast-BottomLeft
+  rotate: false
+  xy: 148, 368
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Ocean-Coast/Beach-Coast-Ocean-BottomRight
+  rotate: false
+  xy: 708, 964
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Ocean-Coast/Beach-Ocean-Coast-BottomRight
+  rotate: false
+  xy: 708, 964
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Ocean-Coast/Beach-Coast-Ocean-Top
+  rotate: false
+  xy: 4, 168
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Ocean-Coast/Beach-Ocean-Coast-Top
+  rotate: false
+  xy: 4, 168
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Ocean-Coast/Beach-Coast-Ocean-TopLeft
+  rotate: false
+  xy: 76, 240
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Ocean-Coast/Beach-Ocean-Coast-TopLeft
+  rotate: false
+  xy: 76, 240
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Ocean-Coast/Beach-Coast-Ocean-TopRight
+  rotate: false
+  xy: 148, 304
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Edges/Ocean-Coast/Beach-Ocean-Coast-TopRight
+  rotate: false
+  xy: 148, 304
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/BasuHex/Tiles/Hill2
+  rotate: false
+  xy: 4, 4
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+game3.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/BasuHex/Tiles/Hill3
+  rotate: false
+  xy: 4, 4
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+game4.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/BasuHex/Crosshair
+  rotate: false
+  xy: 4, 692
+  size: 116, 100
+  orig: 116, 100
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Hexagon
+  rotate: false
+  xy: 1036, 1804
+  size: 277, 240
+  orig: 277, 240
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Highlight
+  rotate: false
+  xy: 4, 800
+  size: 284, 212
+  orig: 284, 212
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Railroad
+  rotate: false
+  xy: 4, 4
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Road
+  rotate: false
+  xy: 1036, 1026
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Acacemy
+  rotate: false
+  xy: 296, 939
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Aluminum
+  rotate: false
+  xy: 1036, 1732
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Atoll
+  rotate: false
+  xy: 1321, 1980
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Atoll2
+  rotate: false
+  xy: 4, 620
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Atoll3
+  rotate: false
+  xy: 128, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Atoll4
+  rotate: false
+  xy: 296, 867
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Bananas
+  rotate: false
+  xy: 368, 948
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Barringer Crater
+  rotate: false
+  xy: 1036, 1660
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Bison
+  rotate: false
+  xy: 1108, 1732
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/CampDeer
+  rotate: false
+  xy: 1321, 1908
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/CampFurs
+  rotate: false
+  xy: 1393, 1980
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/CampIvory
+  rotate: false
+  xy: 4, 548
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/CampTruffles
+  rotate: false
+  xy: 200, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Cattle
+  rotate: false
+  xy: 368, 876
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Citrus
+  rotate: false
+  xy: 440, 948
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/City center-Ancient era
+  rotate: false
+  xy: 1036, 1579
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/City center-Classical era
+  rotate: false
+  xy: 1036, 1579
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/City center-Atomic era
+  rotate: false
+  xy: 1108, 1651
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/City center-Modern era
+  rotate: false
+  xy: 1108, 1651
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/City center-Future era
+  rotate: false
+  xy: 1180, 1723
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/City center-Information era
+  rotate: false
+  xy: 1180, 1723
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/City center-Industrial era
+  rotate: false
+  xy: 1321, 1827
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/City center-Medieval era
+  rotate: false
+  xy: 1393, 1899
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/City center-Renaissance era
+  rotate: false
+  xy: 1393, 1899
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Coal
+  rotate: false
+  xy: 1465, 1980
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Coast
+  rotate: false
+  xy: 4, 476
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Copper
+  rotate: false
+  xy: 440, 876
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Cotton
+  rotate: false
+  xy: 512, 948
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Crab
+  rotate: false
+  xy: 1036, 1507
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Deer
+  rotate: false
+  xy: 1108, 1579
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Desert
+  rotate: false
+  xy: 1180, 1651
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Desert2
+  rotate: false
+  xy: 1393, 1827
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Desert3
+  rotate: false
+  xy: 1465, 1908
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Dyes
+  rotate: false
+  xy: 1537, 1980
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Farm
+  rotate: false
+  xy: 4, 404
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Fish
+  rotate: false
+  xy: 512, 876
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Fishing Boats
+  rotate: false
+  xy: 584, 939
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Fishing Boats-Atomic era
+  rotate: false
+  xy: 1036, 1426
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Fishing Boats-Future era
+  rotate: false
+  xy: 1036, 1426
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Fishing Boats-Industrial era
+  rotate: false
+  xy: 1036, 1426
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Fishing Boats-Information era
+  rotate: false
+  xy: 1036, 1426
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Fishing Boats-Modern era
+  rotate: false
+  xy: 1036, 1426
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Floodplains
+  rotate: false
+  xy: 1108, 1507
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/ForestF2
+  rotate: false
+  xy: 1180, 1579
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/ForestG
+  rotate: false
+  xy: 1465, 1836
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/ForestG2
+  rotate: false
+  xy: 1537, 1908
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/ForestGR
+  rotate: false
+  xy: 1609, 1980
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/ForestP
+  rotate: false
+  xy: 4, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/ForestPR
+  rotate: false
+  xy: 656, 948
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/ForestT
+  rotate: false
+  xy: 1036, 1354
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/ForestT2
+  rotate: false
+  xy: 1108, 1435
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/ForestTR
+  rotate: false
+  xy: 1180, 1507
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Furs
+  rotate: false
+  xy: 1537, 1836
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/FursT
+  rotate: false
+  xy: 1609, 1908
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Gems
+  rotate: false
+  xy: 1681, 1980
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Gold Ore
+  rotate: false
+  xy: 4, 260
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Grassland
+  rotate: false
+  xy: 728, 948
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Grassland2
+  rotate: false
+  xy: 1036, 1282
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Grassland3
+  rotate: false
+  xy: 1108, 1363
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/HillD
+  rotate: false
+  xy: 1180, 1435
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/HillD2
+  rotate: false
+  xy: 1609, 1836
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/HillD3
+  rotate: false
+  xy: 1681, 1908
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/HillFarm
+  rotate: false
+  xy: 1753, 1980
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/HillG
+  rotate: false
+  xy: 4, 188
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/HillG2
+  rotate: false
+  xy: 800, 948
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/HillG3
+  rotate: false
+  xy: 1036, 1210
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/HillP
+  rotate: false
+  xy: 1108, 1291
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/HillP2
+  rotate: false
+  xy: 1180, 1363
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/HillP3
+  rotate: false
+  xy: 1681, 1836
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/HillS
+  rotate: false
+  xy: 1753, 1908
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/HillS2
+  rotate: false
+  xy: 1825, 1980
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/HillS3
+  rotate: false
+  xy: 4, 116
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/HillT
+  rotate: false
+  xy: 872, 948
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/HillT2
+  rotate: false
+  xy: 1036, 1138
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/HillT3
+  rotate: false
+  xy: 1108, 1219
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Holy site
+  rotate: false
+  xy: 1180, 1282
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Horses
+  rotate: false
+  xy: 1753, 1836
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Ice
+  rotate: false
+  xy: 1825, 1908
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Ice2
+  rotate: false
+  xy: 1897, 1980
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Incense
+  rotate: false
+  xy: 4, 44
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Iron
+  rotate: false
+  xy: 944, 948
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Ivory
+  rotate: false
+  xy: 1036, 1066
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/JungleG
+  rotate: false
+  xy: 1108, 1147
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/JungleP
+  rotate: false
+  xy: 1180, 1210
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/JungleR
+  rotate: false
+  xy: 1825, 1836
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Lakes
+  rotate: false
+  xy: 1897, 1908
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Landmark
+  rotate: false
+  xy: 1969, 1971
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Maize
+  rotate: false
+  xy: 1108, 1075
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Manufactory
+  rotate: false
+  xy: 1180, 1129
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Marble
+  rotate: false
+  xy: 1897, 1836
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Marsh
+  rotate: false
+  xy: 1969, 1899
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Marsh2
+  rotate: false
+  xy: 1252, 1732
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Moai
+  rotate: false
+  xy: 1252, 1651
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Mount Sinai
+  rotate: false
+  xy: 1252, 1579
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Mountain
+  rotate: false
+  xy: 1252, 1493
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Mountain2
+  rotate: false
+  xy: 1252, 1407
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Mountain3
+  rotate: false
+  xy: 1252, 1321
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Oasis
+  rotate: false
+  xy: 1252, 1249
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Ocean
+  rotate: false
+  xy: 1252, 1177
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Offshore platform
+  rotate: false
+  xy: 296, 786
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Oil
+  rotate: false
+  xy: 368, 804
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Oil well
+  rotate: false
+  xy: 440, 795
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/PastureCattle
+  rotate: false
+  xy: 512, 804
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/PastureHillHorses
+  rotate: false
+  xy: 584, 867
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/PastureHillSheep
+  rotate: false
+  xy: 656, 876
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/PastureHorses
+  rotate: false
+  xy: 728, 876
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/PastureSheep
+  rotate: false
+  xy: 800, 876
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Pearls
+  rotate: false
+  xy: 872, 876
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Plains
+  rotate: false
+  xy: 944, 876
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Plains2
+  rotate: false
+  xy: 1969, 1827
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Plains3
+  rotate: false
+  xy: 584, 795
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Plantation-Atomic era
+  rotate: false
+  xy: 656, 795
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Plantation-Future era
+  rotate: false
+  xy: 656, 795
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Plantation-Information era
+  rotate: false
+  xy: 656, 795
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/PlantationDyes
+  rotate: false
+  xy: 728, 795
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/PlantationIncense
+  rotate: false
+  xy: 800, 795
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/PlantationSilk
+  rotate: false
+  xy: 872, 795
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/PlantationSpices
+  rotate: false
+  xy: 944, 795
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/PlantationSugar
+  rotate: false
+  xy: 76, 611
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Polder
+  rotate: false
+  xy: 76, 530
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/River-Bottom
+  rotate: false
+  xy: 76, 458
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/River-BottomLeft
+  rotate: false
+  xy: 76, 386
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/River-BottomRight
+  rotate: false
+  xy: 76, 314
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Sakura
+  rotate: false
+  xy: 76, 242
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Sakura2
+  rotate: false
+  xy: 76, 170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Salt
+  rotate: false
+  xy: 4, 1020
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Sheep
+  rotate: false
+  xy: 76, 98
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Silk
+  rotate: false
+  xy: 1180, 1057
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Silver
+  rotate: false
+  xy: 1252, 1105
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Snow
+  rotate: false
+  xy: 76, 26
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Snow2
+  rotate: false
+  xy: 1324, 1755
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Snow3
+  rotate: false
+  xy: 1324, 1683
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Spices
+  rotate: false
+  xy: 1324, 1611
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Stone
+  rotate: false
+  xy: 1324, 1539
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Truffles
+  rotate: false
+  xy: 1324, 1403
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Tundra
+  rotate: false
+  xy: 1324, 1331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Tundra2
+  rotate: false
+  xy: 1324, 1259
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Tundra3
+  rotate: false
+  xy: 1324, 1187
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Uranium
+  rotate: false
+  xy: 1324, 1115
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Whales
+  rotate: false
+  xy: 1396, 1755
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Wheat
+  rotate: false
+  xy: 1396, 1683
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/WheatFarm
+  rotate: false
+  xy: 1396, 1611
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Wine
+  rotate: false
+  xy: 1396, 1539
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/TopBorder
+  rotate: false
+  xy: 1324, 1475
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
